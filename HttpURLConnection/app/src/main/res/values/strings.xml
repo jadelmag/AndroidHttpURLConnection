@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HttpURLConnection</string>
+
+    <string name="downloading_data">Press Button to download data...</string>
+    <string name="action_reload">Check Connection</string>
+    <string name="hint_url">Insert a valid url</string>
+    <string name="btn_download">Download Data</string>
+</resources>
